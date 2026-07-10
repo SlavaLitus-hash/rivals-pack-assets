@@ -1,0 +1,1401 @@
+{
+  "replacement_rules": [
+    {
+      "name": "warhorn use1+use2 -> heavenly choir + fanfare",
+      "replace_ids": [
+        73325703605178,
+        94406584083681
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/marvelnaruto_warhorn_choir.ogg"
+    },
+    {
+      "name": "map select -> soft ui pop 1",
+      "replace_ids": [
+        103035811146294
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_mapselect_pop.ogg"
+    },
+    {
+      "name": "win (round) -> orch accent",
+      "replace_ids": [
+        16810041280
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_win_orchaccent.ogg"
+    },
+    {
+      "name": "d jump -> simple whoosh",
+      "replace_ids": [
+        16770456156,
+        16492958314
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_djump_whoosh.ogg"
+    },
+    {
+      "name": "HEAD HIT v1 -> sword slash",
+      "replace_ids": [
+        16537337310
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_headhit1_slash.ogg"
+    },
+    {
+      "name": "HEAD HIT v2 -> sword slash +1st",
+      "replace_ids": [
+        16537449730
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_headhit2_slash.ogg"
+    },
+    {
+      "name": "duel_timer_10sec2 -> taiko x3",
+      "replace_ids": [
+        17826470563
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_timer10_taiko.ogg"
+    },
+    {
+      "name": "headshot -> sword slash",
+      "replace_ids": [
+        15109829804
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_headshot_slash.ogg"
+    },
+    {
+      "name": "win theme -> orchestral win",
+      "replace_ids": [
+        18221725850,
+        18239670056,
+        18221726246
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_wintheme_orch.ogg"
+    },
+    {
+      "name": "matchpoint -> taiko x2",
+      "replace_ids": [
+        17026600996
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_matchpoint_taiko2x.ogg"
+    },
+    {
+      "name": "kill1 -> punch 1",
+      "replace_ids": [
+        16530229616
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_kill1_punch.ogg"
+    },
+    {
+      "name": "kill2 -> punch 2",
+      "replace_ids": [
+        16530229541
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_kill2_punch.ogg"
+    },
+    {
+      "name": "kill3 -> punch 6 + taiko boom",
+      "replace_ids": [
+        16530229695
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_kill3_punchboom.ogg"
+    },
+    {
+      "name": "self snitch -> correct low",
+      "replace_ids": [
+        99115398611290
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_selfsnitch_correct.ogg"
+    },
+    {
+      "name": "ding -> correct",
+      "replace_ids": [
+        8483887957
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_ding_correct.ogg"
+    },
+    {
+      "name": "rank change -> level up 08",
+      "replace_ids": [
+        70643163489676
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_rankchange_levelup.ogg"
+    },
+    {
+      "name": "demote -> trumpets low slow",
+      "replace_ids": [
+        91547731028928
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_demote_trumpets.ogg"
+    },
+    {
+      "name": "promote -> fanfare trumpets",
+      "replace_ids": [
+        138975587469438
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_promote_trumpets.ogg"
+    },
+    {
+      "name": "lobby music -> LobbyMusic loop",
+      "replace_ids": [
+        17697682466,
+        120824068504773
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_lobby_music.ogg"
+    },
+    {
+      "name": "click -> soft ui pop 2",
+      "replace_ids": [
+        177266782
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_click_pop.ogg"
+    },
+    {
+      "name": "matchmaking -> ui beep 4",
+      "replace_ids": [
+        18525513345
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_matchmaking_beep.ogg"
+    },
+    {
+      "name": "body hit -> taiko2",
+      "replace_ids": [
+        13110130082
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_bodyhit_taiko.ogg"
+    },
+    {
+      "name": "queue countdown -> taiko2 quiet",
+      "replace_ids": [
+        17259538274
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_queuecountdown_taiko.ogg"
+    },
+    {
+      "name": "reward -> purchase success",
+      "replace_ids": [
+        17769583566
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_reward_purchase.ogg"
+    },
+    {
+      "name": "gameresult -> taiko boom",
+      "replace_ids": [
+        18221897857
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_gameresult_boom.ogg"
+    },
+    {
+      "name": "equipment whoosh -> whoosh -2st",
+      "replace_ids": [
+        106551800007995
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_equipwhoosh_whoosh.ogg"
+    },
+    {
+      "name": "lobby muffled -> LobbyMusic lowpass",
+      "replace_ids": [
+        17733314783,
+        114306049661290
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_lobby_music_muffled.ogg"
+    },
+    {
+      "name": "katana deflect unsheathe -> draw sword",
+      "replace_ids": [
+        14798337918
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_katana_unsheathe_draw.ogg"
+    },
+    {
+      "name": "katana attack1 -> bamboo whoosh",
+      "replace_ids": [
+        14000023581
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_katana_attack1_bamboo.ogg"
+    },
+    {
+      "name": "katana attack2 -> bamboo -1.5st",
+      "replace_ids": [
+        14000023392
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_katana_attack2_bamboo.ogg"
+    },
+    {
+      "name": "duel_timer_4sec -> taiko crescendo [НОВОЕ]",
+      "replace_ids": [
+        17826390328
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_timer4_taiko.ogg"
+    },
+    {
+      "name": "intro/load-in -> LobbyMusic 67-72s [НОВОЕ]",
+      "replace_ids": [
+        6384899588
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_intro_lobby.ogg"
+    },
+    {
+      "name": "lose (round) -> Losematch cut",
+      "replace_ids": [
+        16810321565
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_lose_match_short.ogg"
+    },
+    {
+      "name": "lose2 (game) -> Losematch full",
+      "replace_ids": [
+        18239670367
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_lose_match_full.ogg"
+    },
+    {
+      "name": "jumppad bounce -> teleport anime",
+      "replace_ids": [
+        17835965985
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_jumppad_bounce_tp.ogg"
+    },
+    {
+      "name": "jumppad place -> taiko2 -12st",
+      "replace_ids": [
+        85163949920258
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_jumppad_place.ogg"
+    },
+    {
+      "name": "rpg explosion -> RPG",
+      "replace_ids": [
+        13455969017
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_rpg_explosion.ogg"
+    },
+    {
+      "name": "sniper shoot1 -> snipershoot",
+      "replace_ids": [
+        13270206222
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_sniper_shoot1.ogg"
+    },
+    {
+      "name": "sniper shoot2 -> snipershoot -0.7st",
+      "replace_ids": [
+        13270206087
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_sniper_shoot2.ogg"
+    },
+    {
+      "name": "molotov idle -> fire loop",
+      "replace_ids": [
+        14812965418
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_molotov_idle_fire.ogg"
+    },
+    {
+      "name": "molotov impact -> glass+whoosh",
+      "replace_ids": [
+        14812827622
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_molotov_impact.ogg"
+    },
+    {
+      "name": "portal ambience -> choir -12st",
+      "replace_ids": [
+        114274252176516
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_portal_ambience.ogg"
+    },
+    {
+      "name": "portal exit -> whoosh cinematic",
+      "replace_ids": [
+        81610952487049
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_portal_exit.ogg"
+    },
+    {
+      "name": "crossbow shoot -> sword schwing",
+      "replace_ids": [
+        82715240396507
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_crossbow_shoot.ogg"
+    },
+    {
+      "name": "crossbow pull -> draw sword 0.6x",
+      "replace_ids": [
+        112269321366473,
+        13682532502
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_crossbow_pull.ogg"
+    },
+    {
+      "name": "crossbow latch -> crosbow click",
+      "replace_ids": [
+        76155503538875
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_crossbow_latch.ogg"
+    },
+    {
+      "name": "fists attack -> punch",
+      "replace_ids": [
+        13160401062
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_fists_punch.ogg"
+    },
+    {
+      "name": "oob warning -> low pulse",
+      "replace_ids": [
+        114467311328776
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_oob_pulse.ogg"
+    },
+    {
+      "name": "rank: bronze -> wood sword",
+      "replace_ids": [
+        106623367501544,
+        131795064007344,
+        73543520622815
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/bronze3.png"
+    },
+    {
+      "name": "rank: silver 1 -> stone sword",
+      "replace_ids": [
+        80716950169934
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/silver1.png"
+    },
+    {
+      "name": "rank: silver 2 -> stone sword",
+      "replace_ids": [
+        136100661820261
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/silver2.png"
+    },
+    {
+      "name": "rank: silver 3 -> stone sword",
+      "replace_ids": [
+        107898816876115
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/silver3.png"
+    },
+    {
+      "name": "rank: gold 1 -> iron sword",
+      "replace_ids": [
+        134520747948636
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/gold1.png"
+    },
+    {
+      "name": "rank: gold 2 -> iron sword",
+      "replace_ids": [
+        114166096331502
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/gold2.png"
+    },
+    {
+      "name": "rank: gold 3 -> iron sword",
+      "replace_ids": [
+        90039594400813
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/gold3.png"
+    },
+    {
+      "name": "rank: plat 1 -> platinum1",
+      "replace_ids": [
+        133903971285645
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/platinum1.png"
+    },
+    {
+      "name": "rank: plat 2 -> platinum2",
+      "replace_ids": [
+        82834564754747
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/platinum2.png"
+    },
+    {
+      "name": "rank: plat 3 -> platinum3",
+      "replace_ids": [
+        73345783863790
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/platinum3.png"
+    },
+    {
+      "name": "rank: diam 1 -> diamond",
+      "replace_ids": [
+        113997689031026
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/diamond.png"
+    },
+    {
+      "name": "rank: diam 2 -> diamond2",
+      "replace_ids": [
+        88059506918419
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/diamond2.png"
+    },
+    {
+      "name": "rank: diam 3 -> diamond3",
+      "replace_ids": [
+        112183171942172
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/diamond3.png"
+    },
+    {
+      "name": "rank: o1 -> emerald",
+      "replace_ids": [
+        104871954739030
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/onyx1.png"
+    },
+    {
+      "name": "rank: o2 -> ender eye",
+      "replace_ids": [
+        109012386782238
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/onyx2.png"
+    },
+    {
+      "name": "rank: o3 -> nether star",
+      "replace_ids": [
+        127982903682334
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/ranks/onyx3.png"
+    },
+    {
+      "name": "item background 1",
+      "replace_ids": [
+        13220167337
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/slots/itembg1.png"
+    },
+    {
+      "name": "item background 2",
+      "replace_ids": [
+        13188242420
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/slots/itembg2.png"
+    },
+    {
+      "name": "item background 3",
+      "replace_ids": [
+        13220167472
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/slots/itembg3.png"
+    },
+    {
+      "name": "item background 4",
+      "replace_ids": [
+        13188153054
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/slots/itembg4.png"
+    },
+    {
+      "name": "item background 5",
+      "replace_ids": [
+        13188242287
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/slots/itembg5.png"
+    },
+    {
+      "name": "map preview: Sandbox",
+      "replace_ids": [
+        129581948881572
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_sandbox.png"
+    },
+    {
+      "name": "map preview: BigGraveyard (1)",
+      "replace_ids": [
+        93673011647821
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_biggraveyard_1.png"
+    },
+    {
+      "name": "map preview: Arena (1)",
+      "replace_ids": [
+        108088064658436
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_arena_1.png"
+    },
+    {
+      "name": "map preview: Village",
+      "replace_ids": [
+        78458667507109
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_village.png"
+    },
+    {
+      "name": "map preview: Studio",
+      "replace_ids": [
+        113589926222762
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_studio.png"
+    },
+    {
+      "name": "map preview: BigCross",
+      "replace_ids": [
+        73141606762048
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_bigcross.png"
+    },
+    {
+      "name": "map preview: Chess (1)",
+      "replace_ids": [
+        88015580366583
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_chess_1.png"
+    },
+    {
+      "name": "map preview: Bridge (2)",
+      "replace_ids": [
+        110835255645526
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_bridge_2.png"
+    },
+    {
+      "name": "map preview: BigArena (1)",
+      "replace_ids": [
+        86783307295205
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_bigarena_1.png"
+    },
+    {
+      "name": "map preview: DimensionMap (2)",
+      "replace_ids": [
+        78851598956506
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_dimensionmap_2.png"
+    },
+    {
+      "name": "map preview: Factory_EXP",
+      "replace_ids": [
+        134218858341023
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_factory_exp.png"
+    },
+    {
+      "name": "map preview: Docks",
+      "replace_ids": [
+        17619338260
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_docks.png"
+    },
+    {
+      "name": "map preview: Splash (1)",
+      "replace_ids": [
+        77611360382000
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_splash_1.png"
+    },
+    {
+      "name": "map preview: LegacyCrossroads",
+      "replace_ids": [
+        75089226416040
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_legacycrossroads.png"
+    },
+    {
+      "name": "map preview: Sandbox_EXP",
+      "replace_ids": [
+        84468237347412
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_sandbox_exp.png"
+    },
+    {
+      "name": "map preview: backrooms",
+      "replace_ids": [
+        16780257607
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_backrooms.png"
+    },
+    {
+      "name": "map preview: Onyx2",
+      "replace_ids": [
+        102960591046810
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_onyx2.png"
+    },
+    {
+      "name": "map preview: Onyx (2)",
+      "replace_ids": [
+        103965007372841
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_onyx_2.png"
+    },
+    {
+      "name": "map preview: Westown (1)",
+      "replace_ids": [
+        121909311756592
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_westown_1.png"
+    },
+    {
+      "name": "map preview: Battleground (2)",
+      "replace_ids": [
+        92092855485574
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_battleground_2.png"
+    },
+    {
+      "name": "map preview: Construction (2)",
+      "replace_ids": [
+        92127692376940
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_construction_2.png"
+    },
+    {
+      "name": "map preview: BigSplash (1)",
+      "replace_ids": [
+        112550674762781
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_bigsplash_1.png"
+    },
+    {
+      "name": "map preview: NEWStation",
+      "replace_ids": [
+        118067445717885
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_newstation.png"
+    },
+    {
+      "name": "map preview: StationNEW",
+      "replace_ids": [
+        74496755529082
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_stationnew.png"
+    },
+    {
+      "name": "map preview: Museum",
+      "replace_ids": [
+        80495049076353
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_museum.png"
+    },
+    {
+      "name": "map preview: Splash (3)",
+      "replace_ids": [
+        73768743857232
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_splash_3.png"
+    },
+    {
+      "name": "map preview: Iceberg (1) (1) (1)",
+      "replace_ids": [
+        110713820813038
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_iceberg_1_1_1.png"
+    },
+    {
+      "name": "map preview: Graveyard (3)",
+      "replace_ids": [
+        129215409539945
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_graveyard_3.png"
+    },
+    {
+      "name": "map preview: Docks (1)",
+      "replace_ids": [
+        118450909242865
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_docks_1.png"
+    },
+    {
+      "name": "map preview: Crossroads (1)",
+      "replace_ids": [
+        137051465958454
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_crossroads_1.png"
+    },
+    {
+      "name": "map preview: BigBackrooms",
+      "replace_ids": [
+        70941797176675
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/previews/preview_bigbackrooms.png"
+    },
+    {
+      "name": "skybox shared ft",
+      "replace_ids": [
+        14147882761
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/shared_ft.png"
+    },
+    {
+      "name": "skybox shared bk",
+      "replace_ids": [
+        14147881792
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/shared_bk.png"
+    },
+    {
+      "name": "skybox shared lf",
+      "replace_ids": [
+        14147883091
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/shared_lf.png"
+    },
+    {
+      "name": "skybox shared rt",
+      "replace_ids": [
+        14147882405
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/shared_rt.png"
+    },
+    {
+      "name": "skybox shared up",
+      "replace_ids": [
+        14147881297
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/shared_up.png"
+    },
+    {
+      "name": "skybox shared dn",
+      "replace_ids": [
+        14147882149
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/shared_dn.png"
+    },
+    {
+      "name": "skybox station ft",
+      "replace_ids": [
+        2108482231
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/station_ft.png"
+    },
+    {
+      "name": "skybox station bk",
+      "replace_ids": [
+        2108482005
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/station_bk.png"
+    },
+    {
+      "name": "skybox station lf",
+      "replace_ids": [
+        2108482395
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/station_lf.png"
+    },
+    {
+      "name": "skybox station rt",
+      "replace_ids": [
+        2108482542
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/station_rt.png"
+    },
+    {
+      "name": "skybox station up",
+      "replace_ids": [
+        2108482676
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/station_up.png"
+    },
+    {
+      "name": "skybox station dn",
+      "replace_ids": [
+        2108545280
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/station_dn.png"
+    },
+    {
+      "name": "skybox dimension ft",
+      "replace_ids": [
+        10196550367
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/dimension_ft.png"
+    },
+    {
+      "name": "skybox dimension bk",
+      "replace_ids": [
+        10196550937
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/dimension_bk.png"
+    },
+    {
+      "name": "skybox dimension lf",
+      "replace_ids": [
+        10196550128
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/dimension_lf.png"
+    },
+    {
+      "name": "skybox dimension rt",
+      "replace_ids": [
+        10196549902
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/dimension_rt.png"
+    },
+    {
+      "name": "skybox dimension up",
+      "replace_ids": [
+        10196567794
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/dimension_up.png"
+    },
+    {
+      "name": "skybox dimension dn",
+      "replace_ids": [
+        10196550667
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/dimension_dn.png"
+    },
+    {
+      "name": "skybox graveyard sides",
+      "replace_ids": [
+        135908632589654
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/graveyard_ft.png"
+    },
+    {
+      "name": "skybox graveyard up",
+      "replace_ids": [
+        72960281658487
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/graveyard_up.png"
+    },
+    {
+      "name": "skybox graveyard dn",
+      "replace_ids": [
+        103020541883227
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/graveyard_dn.png"
+    },
+    {
+      "name": "skybox graveyard-sd sides",
+      "replace_ids": [
+        84214501374682
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/graveyardsd_ft.png"
+    },
+    {
+      "name": "skybox graveyard-sd up",
+      "replace_ids": [
+        92138082970751
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/graveyardsd_up.png"
+    },
+    {
+      "name": "skybox graveyard-sd dn",
+      "replace_ids": [
+        89972436184102
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/skybox/graveyardsd_dn.png"
+    },
+    {
+      "name": "arena bg",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_arena.png"
+    },
+    {
+      "name": "back icon",
+      "replace_ids": [
+        17562685319
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_back.png"
+    },
+    {
+      "name": "next icon",
+      "replace_ids": [
+        113844621753627
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_next.png"
+    },
+    {
+      "name": "plus icon",
+      "replace_ids": [
+        17838317115
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_plus.png"
+    },
+    {
+      "name": "x icon + x icon2",
+      "replace_ids": [
+        17838290166,
+        108220438104376
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_x.png"
+    },
+    {
+      "name": "lock icon",
+      "replace_ids": [
+        17229230506
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_lock.png"
+    },
+    {
+      "name": "exit icon",
+      "replace_ids": [
+        17498605048
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_exit.png"
+    },
+    {
+      "name": "setting + cog icon",
+      "replace_ids": [
+        14641612286,
+        17619445191
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_gear.png"
+    },
+    {
+      "name": "save icon",
+      "replace_ids": [
+        13733474711
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_save.png"
+    },
+    {
+      "name": "region icon",
+      "replace_ids": [
+        135846354277966
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_region.png"
+    },
+    {
+      "name": "servers icon",
+      "replace_ids": [
+        12343093905
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_servers.png"
+    },
+    {
+      "name": "task completed icon",
+      "replace_ids": [
+        17772690718
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_task_completed.png"
+    },
+    {
+      "name": "book icon",
+      "replace_ids": [
+        18457336026
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_book.png"
+    },
+    {
+      "name": "scroll icon",
+      "replace_ids": [
+        17619445009
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_scroll.png"
+    },
+    {
+      "name": "duels icon",
+      "replace_ids": [
+        18525954682
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_duels.png"
+    },
+    {
+      "name": "spectate icon",
+      "replace_ids": [
+        77908042044589
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_spectate.png"
+    },
+    {
+      "name": "teammate icon",
+      "replace_ids": [
+        17704137194
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_teammate.png"
+    },
+    {
+      "name": "logo",
+      "replace_ids": [
+        17803962335
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_logo.png"
+    },
+    {
+      "name": "logo g",
+      "replace_ids": [
+        13854780213
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_logo_g.png"
+    },
+    {
+      "name": "lvl icon",
+      "replace_ids": [
+        81461991645938
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_lvl.png"
+    },
+    {
+      "name": "gamemode end icon",
+      "replace_ids": [
+        99135525400251
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_gamemode_end.png"
+    },
+    {
+      "name": "hp icon",
+      "replace_ids": [
+        8276600102
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_hp.png"
+    },
+    {
+      "name": "damage indicator",
+      "replace_ids": [
+        13853836511
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_damage_indicator.png"
+    },
+    {
+      "name": "streak icon",
+      "replace_ids": [
+        17175092502,
+        17094014569
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_streak.png"
+    },
+    {
+      "name": "killfeed headshot",
+      "replace_ids": [
+        126928245743331
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_killfeed_headshot.png"
+    },
+    {
+      "name": "chickn texture",
+      "replace_ids": [
+        133917828562858
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/tex_chickn.png"
+    },
+    {
+      "name": "incubatron texture",
+      "replace_ids": [
+        121503061771505
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/tex_incubatron.png"
+    },
+    {
+      "name": "remove ambience on maps",
+      "replace_ids": [
+        17813065011,
+        17813065464,
+        12099785239
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "remove the n",
+      "replace_ids": [
+        13854780042
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "remove map pattern",
+      "replace_ids": [
+        136887158756561
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}
