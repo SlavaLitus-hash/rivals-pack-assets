@@ -1372,6 +1372,24 @@
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/tex_incubatron.png"
     },
     {
+      "name": "arch (top)",
+      "replace_ids": [
+        133793956251748
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_arch.png"
+    },
+    {
+      "name": "nem (top standard)",
+      "replace_ids": [
+        116941545385923
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_nem.png"
+    },
+    {
       "name": "remove ambience on maps",
       "replace_ids": [
         17813065011,
