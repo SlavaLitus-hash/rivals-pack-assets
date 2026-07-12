@@ -39,22 +39,22 @@
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_djump_whoosh.ogg"
     },
     {
-      "name": "HEAD HIT v1 -> sword slash",
+      "name": "HEAD HIT v1 -> xylophone A+12",
       "replace_ids": [
         16537337310
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_headhit1_slash.ogg"
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn11_headhit1_xyloA12.ogg"
     },
     {
-      "name": "HEAD HIT v2 -> sword slash +1st",
+      "name": "HEAD HIT v2 -> xylophone A+12.3",
       "replace_ids": [
         16537449730
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_headhit2_slash.ogg"
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn11_headhit2_xyloA12.ogg"
     },
     {
       "name": "duel_timer_10sec2 -> taiko x3",
@@ -195,13 +195,13 @@
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_matchmaking_beep.ogg"
     },
     {
-      "name": "body hit -> taiko2",
+      "name": "body hit -> xylophone A",
       "replace_ids": [
         13110130082
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn_bodyhit_taiko.ogg"
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn11_bodyhit_xyloA.ogg"
     },
     {
       "name": "queue countdown -> taiko2 quiet",
@@ -1388,6 +1388,60 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/icons/icon_nem.png"
+    },
+    {
+      "name": "medkit quick_stick -> wine clink 1",
+      "replace_ids": [
+        17123622923
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn11_medkit_clink1.ogg"
+    },
+    {
+      "name": "medkit bandage_rip -> wine clink 2",
+      "replace_ids": [
+        13505411414
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn11_medkit_clink2.ogg"
+    },
+    {
+      "name": "medkit heal_effect2 -> gulp",
+      "replace_ids": [
+        17138490999
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn11_medkit_gulp.ogg"
+    },
+    {
+      "name": "medkit flaregun_reload_pop -> pop",
+      "replace_ids": [
+        13236026280
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn11_medkit_flarepop.ogg"
+    },
+    {
+      "name": "medkit knife_equip_catch -> cork",
+      "replace_ids": [
+        13160326139
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn11_medkit_corkcatch.ogg"
+    },
+    {
+      "name": "medkit bandage_apply -> wine pour",
+      "replace_ids": [
+        13505411336
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/sounds/mn11_medkit_pour.ogg"
     },
     {
       "name": "remove ambience on maps",

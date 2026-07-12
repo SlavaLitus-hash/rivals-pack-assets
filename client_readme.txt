@@ -33,13 +33,16 @@ WHAT THIS PACK CHANGES
 * UI icons (27): logo, HP, damage indicator, buttons, menu icons
 * Item slot backgrounds (5)
 * Ambience removal tweaks
+* v1.1: medkit sounds — "royal feast" theme (wine clink, gulp,
+  cork pop, wine pouring) on the default medkit skin
+* v1.1: musical hit sounds — xylophone note A for body hits,
+  one octave higher for headshots
 
 KNOWN LIMITATIONS
 -----------------
 * After Rivals game updates, single replacements may stop working —
   the developers sometimes change asset IDs. This is normal and
   fixable: the pack just needs a small ID update, not a rebuild.
-* The medkit sounds are intentionally NOT modified.
 * Maps Battle Grounds / Default / Docks / Iceberg / Village share
   one physical skybox in the game files, so they all use the same
   custom sky - this is a game limitation, not a bug.
