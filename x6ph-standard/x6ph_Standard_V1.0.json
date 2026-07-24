@@ -195,6 +195,66 @@
       "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_dn.png"
+    },
+    {
+      "name": "Watermark 1",
+      "replace_ids": [
+        112156073461846
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/watermark/7d865043-51b8-4f99-b844-64483ad9d30a.png"
+    },
+    {
+      "name": "Watermark 2",
+      "replace_ids": [
+        80370960369204
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/watermark/360b96f4-ae33-4d2b-8b0c-a82ddf138a82.png"
+    },
+    {
+      "name": "Watermark 3",
+      "replace_ids": [
+        115486665139898
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/watermark/d494801e-9513-4358-ade7-e1d354019c91.png"
+    },
+    {
+      "name": "Watermark 4",
+      "replace_ids": [
+        106699686969017
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/watermark/cb98ac8c-c41f-4cc3-a514-7c2af17b4b93.png"
+    },
+    {
+      "name": "Watermark 5",
+      "replace_ids": [
+        114213660098262,
+        97418037278150
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/watermark/838ef0a4-591f-4568-ae56-b856a577b6ce.png"
+    },
+    {
+      "name": "Watermark 6",
+      "replace_ids": [
+        82401696410253,
+        138026337392894,
+        128090144224329,
+        138258679628751,
+        126329289814158,
+        89745235079273
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/watermark/f9c1bca0-e744-47bb-bb7a-2b8eb859aff3.png"
     }
   ]
 }
