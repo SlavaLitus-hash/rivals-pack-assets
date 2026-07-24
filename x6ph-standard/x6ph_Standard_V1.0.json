@@ -1,0 +1,181 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Head Hit (headshot) - base",
+      "replace_ids": [
+        16537337310
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/sounds/headhit.ogg"
+    },
+    {
+      "name": "Head Hit (headshot) - +0.5st",
+      "replace_ids": [
+        16537449730
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/sounds/headhit_hi.ogg"
+    },
+    {
+      "name": "Body Hit (hitmarker, hot)",
+      "replace_ids": [
+        13110130082
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/sounds/bodyhit.ogg"
+    },
+    {
+      "name": "Logo (Rivals)",
+      "replace_ids": [
+        13854780213
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/textures/logo.png"
+    },
+    {
+      "name": "Arena texture",
+      "replace_ids": [
+        7658055825
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/textures/arena.png"
+    },
+    {
+      "name": "Skybox Station - Bk",
+      "replace_ids": [
+        2108482005
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_bk.png"
+    },
+    {
+      "name": "Skybox Station - Dn",
+      "replace_ids": [
+        2108545280
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_dn.png"
+    },
+    {
+      "name": "Skybox Station - Ft",
+      "replace_ids": [
+        2108482231
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_ft.png"
+    },
+    {
+      "name": "Skybox Station - Lf",
+      "replace_ids": [
+        2108482395
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_lf.png"
+    },
+    {
+      "name": "Skybox Station - Rt",
+      "replace_ids": [
+        2108482542
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_rt.png"
+    },
+    {
+      "name": "Skybox Station - Up",
+      "replace_ids": [
+        2108482676
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_up.png"
+    },
+    {
+      "name": "Skybox Other - Bk",
+      "replace_ids": [
+        14147881792,
+        135908632589654,
+        84214501374682,
+        10196550937,
+        12261809766
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_bk.png"
+    },
+    {
+      "name": "Skybox Other - Ft",
+      "replace_ids": [
+        14147882761,
+        12261809766,
+        135908632589654,
+        84214501374682,
+        10196550367
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_ft.png"
+    },
+    {
+      "name": "Skybox Other - Lf",
+      "replace_ids": [
+        14147883091,
+        135908632589654,
+        84214501374682,
+        12261809766,
+        10196550128
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_lf.png"
+    },
+    {
+      "name": "Skybox Other - Rt",
+      "replace_ids": [
+        14147882405,
+        135908632589654,
+        84214501374682,
+        12261809766,
+        10196549902
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_rt.png"
+    },
+    {
+      "name": "Skybox Other - Up",
+      "replace_ids": [
+        14147881297,
+        72960281658487,
+        92138082970751,
+        10196567794,
+        12261813678
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_up.png"
+    },
+    {
+      "name": "Skybox Other - Dn",
+      "replace_ids": [
+        10196550667,
+        14147882149,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/skybox/nebula_dn.png"
+    }
+  ]
+}
