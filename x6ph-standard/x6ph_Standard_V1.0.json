@@ -46,6 +46,25 @@
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/textures/arena.png"
     },
     {
+      "name": "Level icon",
+      "replace_ids": [
+        81461991645938
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/icons/icon_lvl.png"
+    },
+    {
+      "name": "Streak icon",
+      "replace_ids": [
+        17175092502,
+        17094014569
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/x6ph-standard/icons/icon_streak.png"
+    },
+    {
       "name": "Skybox Station - Bk",
       "replace_ids": [
         2108482005
