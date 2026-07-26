@@ -1,5 +1,5 @@
 ==========================================================
-  GoneByNightfall — PREMIUM PACK for Rivals (Fleasion)  v1.0
+  GoneByNightfall — PREMIUM PACK for Rivals (Fleasion)  v1.2
 ==========================================================
 
 Thanks for your order! This is a focused Premium pack — it changes only
@@ -23,18 +23,22 @@ WHAT THIS PACK CHANGES
                           the game uses).
 
   REMOVED — these UI elements are hidden completely:
-            • the round timer icon
+            • the round timer — both the hourglass icon and the plate
+              behind it
             • the weapon panel background
             • the five item slot backdrops
 
-  Not included in v1.0 (agreed): watermark and sounds.
+            Note: the timer DIGITS are text, not an image, so they stay.
+            Nothing in Fleasion can remove them.
+
+  Not included in this build (agreed): watermark and sounds.
 
 ----------------------------------------------------------
 HOW TO IMPORT (Fleasion)
 ----------------------------------------------------------
   1. Open Fleasion.
   2. Import / Add config  ->  select the file:
-        GoneByNightfall_Premium_V1.0.json
+        GoneByNightfall_Premium_V1.2.json
   3. Make sure the config is ENABLED (toggle on).
   4. All assets stream from the cloud (CDN) — no extra files to place,
      you don't need anything except the .json.
