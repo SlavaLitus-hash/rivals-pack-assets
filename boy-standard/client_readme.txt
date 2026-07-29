@@ -1,5 +1,5 @@
 ==========================================================
-  boy / moon808132 — STANDARD PACK for Rivals (Fleasion)  v1.2
+  boy / moon808132 — STANDARD PACK for Rivals (Fleasion)  v1.3
 ==========================================================
 
 Thanks for your order! This pack re-skins the ASSAULT RIFLE and swaps
@@ -27,9 +27,12 @@ WHAT THIS PACK CHANGES
              material belongs to the game and cannot be swapped.
 
   SOUNDS   — Event Horizon shoot / magazine out / magazine in on the
-             assault rifle. All three are trimmed to fit inside the
-             original clip lengths (Rivals cuts or mutes anything
-             longer). The shoot sound is also brought down to 56% of the original.
+             assault rifle. The shoot sound is trimmed to fit inside the
+             original clip and brought down to 56% of its volume.
+             The two magazine sounds are shipped at FULL length, which is
+             longer than the clips they replace — if either one ends up
+             cut short or silent in game, say so and I'll ship the
+             trimmed versions instead (they're ready).
              The sniper's bolt-back sound is removed — as agreed, this
              also silences it on the sniper itself.
 
@@ -50,7 +53,7 @@ HOW TO IMPORT (Fleasion)
 ----------------------------------------------------------
   1. Open Fleasion.
   2. Import / Add config  ->  select the file:
-        boy_Standard_V1.2.json
+        boy_Standard_V1.3.json
   3. Make sure the config is ENABLED (toggle on).
   4. Everything streams from the cloud (CDN) — no extra files to place,
      you don't need anything except the .json.

@@ -16,7 +16,7 @@
       ],
       "enabled": true,
       "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/sounds/ar_mag_exit.ogg"
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/sounds/ar_mag_exit_full.ogg"
     },
     {
       "name": "AR reload mag enter",
@@ -25,7 +25,7 @@
       ],
       "enabled": true,
       "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/sounds/ar_mag_enter.ogg"
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/sounds/ar_mag_enter_full.ogg"
     },
     {
       "name": "Remove sniper bolt-back sound",
