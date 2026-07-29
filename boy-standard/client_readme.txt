@@ -1,5 +1,5 @@
 ==========================================================
-  boy / moon808132 — STANDARD PACK for Rivals (Fleasion)  v1.3
+  boy / moon808132 — STANDARD PACK for Rivals (Fleasion)  v1.4
 ==========================================================
 
 Thanks for your order! This pack re-skins the ASSAULT RIFLE and swaps
@@ -36,15 +36,20 @@ WHAT THIS PACK CHANGES
              The sniper's bolt-back sound is removed — as agreed, this
              also silences it on the sniper itself.
 
-  ANIMS    — equip, idle, sprint, reload, inspect and shoot are swapped
-             for the Event Horizon set.
-             Heads-up: those animations were authored for the sniper,
-             whose timings differ from the assault rifle (the AR shot
-             is ~0.17 s against a full bolt cycle). Some of them may
-             look off or cut short. Tell me which ones and I'll turn
-             those single rules off — the rest keep working.
+  ANIMS    — equip, idle, sprint, reload and inspect are swapped for the
+             Event Horizon set. The SHOOT animation is left stock on
+             purpose: the Event Horizon one was made for the sniper's
+             bolt cycle and kicked the barrel far too hard on the rifle.
+             The rest were authored for the sniper too, so if any of them
+             still look off, tell me which and I'll switch that single
+             rule back — the others keep working.
 
-  ICONS    — level and streak icons in the pack's yellow gradient.
+  ICONS    — weapon, level and streak icons.
+             The game multiplies UI icons by its own tint, so the colour
+             is picked for what it becomes on screen, not for how the
+             file looks: the level icon is blue (a yellow one came out
+             green against the game's blue tint), the streak icon keeps
+             the warm gradient.
 
   Not included in this build (agreed): watermark, skybox, other UI.
 
@@ -53,7 +58,7 @@ HOW TO IMPORT (Fleasion)
 ----------------------------------------------------------
   1. Open Fleasion.
   2. Import / Add config  ->  select the file:
-        boy_Standard_V1.3.json
+        boy_Standard_V1.4.json
   3. Make sure the config is ENABLED (toggle on).
   4. Everything streams from the cloud (CDN) — no extra files to place,
      you don't need anything except the .json.

@@ -82,15 +82,6 @@
       "with_id": 89426100452654
     },
     {
-      "name": "Anim shoot",
-      "replace_ids": [
-        13010911854
-      ],
-      "enabled": true,
-      "mode": "id",
-      "with_id": 131324265853213
-    },
-    {
       "name": "AR body mesh (client model, colour baked in)",
       "replace_ids": [
         14652718299
