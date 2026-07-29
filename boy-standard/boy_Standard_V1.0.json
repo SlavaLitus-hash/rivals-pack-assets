@@ -1,0 +1,149 @@
+{
+  "replacement_rules": [
+    {
+      "name": "AR shoot",
+      "replace_ids": [
+        13087362838
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/sounds/ar_shoot.ogg"
+    },
+    {
+      "name": "AR reload mag exit",
+      "replace_ids": [
+        13236549962
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/sounds/ar_mag_exit.ogg"
+    },
+    {
+      "name": "AR reload mag enter",
+      "replace_ids": [
+        13236549929
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/sounds/ar_mag_enter.ogg"
+    },
+    {
+      "name": "Remove sniper bolt-back sound",
+      "replace_ids": [
+        13455395017
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
+    },
+    {
+      "name": "Anim equip",
+      "replace_ids": [
+        13010870236
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 81764105421530
+    },
+    {
+      "name": "Anim idle",
+      "replace_ids": [
+        13010885336
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 133028871112073
+    },
+    {
+      "name": "Anim sprint",
+      "replace_ids": [
+        13010904196
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 124791899818888
+    },
+    {
+      "name": "Anim reload",
+      "replace_ids": [
+        13010900962
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 121991964753861
+    },
+    {
+      "name": "Anim inspect",
+      "replace_ids": [
+        13010893629
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 89426100452654
+    },
+    {
+      "name": "Anim shoot",
+      "replace_ids": [
+        13010911854
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 131324265853213
+    },
+    {
+      "name": "AR body mesh (client model)",
+      "replace_ids": [
+        14652718299
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/mesh/ar_body.obj"
+    },
+    {
+      "name": "Remove second body mesh",
+      "replace_ids": [
+        12613284249
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
+    },
+    {
+      "name": "AR body texture (baked)",
+      "replace_ids": [
+        13197584241
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/mesh/ar_texture.png"
+    },
+    {
+      "name": "Remove magazine",
+      "replace_ids": [
+        12613284529
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
+    },
+    {
+      "name": "Level icon",
+      "replace_ids": [
+        81461991645938
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/icons/icon_lvl.png"
+    },
+    {
+      "name": "Streak icon",
+      "replace_ids": [
+        17175092502,
+        17094014569
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/icons/icon_streak.png"
+    }
+  ]
+}
