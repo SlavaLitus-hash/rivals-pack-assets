@@ -1,5 +1,5 @@
 ==========================================================
-  boy / moon808132 — STANDARD PACK for Rivals (Fleasion)  v1.5
+  boy / moon808132 — STANDARD PACK for Rivals (Fleasion)  v1.6
 ==========================================================
 
 Thanks for your order! This pack re-skins the ASSAULT RIFLE and swaps
@@ -52,14 +52,16 @@ WHAT THIS PACK CHANGES
              green against the game's blue tint), the streak icon keeps
              the warm gradient.
 
-  Not included in this build (agreed): watermark, skybox, other UI.
+  WATERMARK — the six watermark images are included.
+
+  Not included in this build (agreed): skybox, other UI.
 
 ----------------------------------------------------------
 HOW TO IMPORT (Fleasion)
 ----------------------------------------------------------
   1. Open Fleasion.
   2. Import / Add config  ->  select the file:
-        boy_Standard_V1.5.json
+        boy_Standard_V1.6.json
   3. Make sure the config is ENABLED (toggle on).
   4. Everything streams from the cloud (CDN) — no extra files to place,
      you don't need anything except the .json.
