@@ -1,5 +1,5 @@
 ==========================================================
-  boy / moon808132 — STANDARD PACK for Rivals (Fleasion)  v1.4
+  boy / moon808132 — STANDARD PACK for Rivals (Fleasion)  v1.5
 ==========================================================
 
 Thanks for your order! This pack re-skins the ASSAULT RIFLE and swaps
@@ -36,13 +36,14 @@ WHAT THIS PACK CHANGES
              The sniper's bolt-back sound is removed — as agreed, this
              also silences it on the sniper itself.
 
-  ANIMS    — equip, idle, sprint, reload and inspect are swapped for the
-             Event Horizon set. The SHOOT animation is left stock on
-             purpose: the Event Horizon one was made for the sniper's
-             bolt cycle and kicked the barrel far too hard on the rifle.
-             The rest were authored for the sniper too, so if any of them
-             still look off, tell me which and I'll switch that single
-             rule back — the others keep working.
+  ANIMS    — equip, sprint, reload and inspect come from the Event
+             Horizon set. IDLE and SHOOT are deliberately left stock:
+             both were posed for the sniper, and on the rifle the idle
+             held the gun up and away from the camera while the shoot
+             kicked the barrel far too hard. With the stock idle the
+             model sits in the hand the way it should.
+             If any of the four still looks off, tell me which and I'll
+             switch that single rule back — the others keep working.
 
   ICONS    — weapon, level and streak icons.
              The game multiplies UI icons by its own tint, so the colour
@@ -58,7 +59,7 @@ HOW TO IMPORT (Fleasion)
 ----------------------------------------------------------
   1. Open Fleasion.
   2. Import / Add config  ->  select the file:
-        boy_Standard_V1.4.json
+        boy_Standard_V1.5.json
   3. Make sure the config is ENABLED (toggle on).
   4. Everything streams from the cloud (CDN) — no extra files to place,
      you don't need anything except the .json.

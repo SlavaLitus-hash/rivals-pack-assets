@@ -46,15 +46,6 @@
       "with_id": 81764105421530
     },
     {
-      "name": "Anim idle",
-      "replace_ids": [
-        13010885336
-      ],
-      "enabled": true,
-      "mode": "id",
-      "with_id": 133028871112073
-    },
-    {
       "name": "Anim sprint",
       "replace_ids": [
         13010904196
