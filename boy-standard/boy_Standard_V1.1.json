@@ -100,9 +100,14 @@
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/mesh/ar_body.obj"
     },
     {
-      "name": "Remove second body mesh",
+      "name": "Remove stock AR parts",
       "replace_ids": [
-        12613284249
+        12613284249,
+        12613284529,
+        12613283569,
+        12613284036,
+        12613284768,
+        12613283355
       ],
       "enabled": true,
       "mode": "id",
@@ -118,13 +123,13 @@
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/mesh/ar_texture.png"
     },
     {
-      "name": "Remove magazine",
+      "name": "AR weapon icon",
       "replace_ids": [
-        12613284529
+        17160682738
       ],
       "enabled": true,
-      "mode": "id",
-      "remove": true
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/icons/icon_ar.png"
     },
     {
       "name": "Level icon",
