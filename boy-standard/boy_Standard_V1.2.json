@@ -91,13 +91,13 @@
       "with_id": 131324265853213
     },
     {
-      "name": "AR body mesh (client model)",
+      "name": "AR body mesh (client model, colour baked in)",
       "replace_ids": [
         14652718299
       ],
       "enabled": true,
       "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/mesh/ar_body.obj"
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/mesh/ar_body_hi.mesh"
     },
     {
       "name": "Remove stock AR parts",
@@ -112,15 +112,6 @@
       "enabled": true,
       "mode": "id",
       "remove": true
-    },
-    {
-      "name": "AR body texture (baked)",
-      "replace_ids": [
-        13197584241
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/boy-standard/mesh/ar_texture.png"
     },
     {
       "name": "AR weapon icon",
