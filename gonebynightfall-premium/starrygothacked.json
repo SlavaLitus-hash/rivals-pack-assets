@@ -192,12 +192,187 @@
       "remove": true
     },
     {
-      "name": "Remove UI background plates (incl. timer)",
+      "name": "Remove timer background plate",
       "replace_ids": [
-        13970862697,
-        17277885619,
-        8369869661,
-        13970862959
+        17277885692
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
+    },
+    {
+      "name": "Dialog portrait",
+      "replace_ids": [
+        133917828562858,
+        121503061771505
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/icons/dialog_portrait.png"
+    },
+    {
+      "name": "UI hover click",
+      "replace_ids": [
+        103035811146294
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/mixkit-pebbles-click-1128.wav"
+    },
+    {
+      "name": "UI confirm click",
+      "replace_ids": [
+        177266782
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/mixkit-modern-click-box-check-1120.wav"
+    },
+    {
+      "name": "Ding -> intro voice",
+      "replace_ids": [
+        8483887957
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/enter_fps.ogg"
+    },
+    {
+      "name": "Heal sfx",
+      "replace_ids": [
+        17138490999
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/healnew.wav"
+    },
+    {
+      "name": "Head hit",
+      "replace_ids": [
+        16537337310,
+        16537449730
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/headoonyx_loud3.wav"
+    },
+    {
+      "name": "Body hit",
+      "replace_ids": [
+        13110130082
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/hitonyx_loud.wav"
+    },
+    {
+      "name": "Kill 1",
+      "replace_ids": [
+        16530229616
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/kill_voice.ogg"
+    },
+    {
+      "name": "Kill 2",
+      "replace_ids": [
+        16530229541
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/kill_voice2.ogg"
+    },
+    {
+      "name": "Kill 3",
+      "replace_ids": [
+        16530229695
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/kill_voice3.ogg"
+    },
+    {
+      "name": "RPG explosion",
+      "replace_ids": [
+        13455969017
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/bloxonyx.ogg"
+    },
+    {
+      "name": "Duel countdown",
+      "replace_ids": [
+        17826470563
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/countonyx.wav"
+    },
+    {
+      "name": "Queue countdown",
+      "replace_ids": [
+        17259538274
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/countonyx.wav"
+    },
+    {
+      "name": "Portal ambience",
+      "replace_ids": [
+        114274252176516
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/gonebynightfall-premium/sounds/portal_pop_double.wav"
+    },
+    {
+      "name": "Silence intro theme",
+      "replace_ids": [
+        6384899588
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
+    },
+    {
+      "name": "Silence lobby music",
+      "replace_ids": [
+        17697682466,
+        17733314783
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
+    },
+    {
+      "name": "Remove map ambience",
+      "replace_ids": [
+        17813065011,
+        17813065464,
+        12099785239
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
+    },
+    {
+      "name": "Remove ambience sounds",
+      "replace_ids": [
+        93752516938586,
+        16359327230,
+        13645858587,
+        17813170797,
+        17251084003,
+        123807468675018,
+        96651118435847,
+        75644699023746,
+        71681149544292,
+        93843878451088,
+        108905869931161,
+        94857514154727
       ],
       "enabled": true,
       "mode": "id",

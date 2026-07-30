@@ -1,5 +1,5 @@
 ==========================================================
-  GoneByNightfall — PREMIUM PACK for Rivals (Fleasion)  v1.2
+  GoneByNightfall — PREMIUM PACK for Rivals (Fleasion)  v1.3
 ==========================================================
 
 Thanks for your order! This is a focused Premium pack — it changes only
@@ -31,14 +31,22 @@ WHAT THIS PACK CHANGES
             Note: the timer DIGITS are text, not an image, so they stay.
             Nothing in Fleasion can remove them.
 
-  Not included in this build (agreed): watermark and sounds.
+  DIALOG    — the chicken dialog portrait is replaced with your own
+              avatar render, fitted to the original 1024x512 canvas.
+
+  SOUNDS    — the ASMR FPS Redux sound set: hit and headshot markers,
+              the three kill voices, heal, RPG boom, both countdowns,
+              portal ping and the two UI clicks. Intro theme, lobby music
+              and the map ambience are silenced, as in that set.
+
+  Not included in this build (agreed): watermark.
 
 ----------------------------------------------------------
 HOW TO IMPORT (Fleasion)
 ----------------------------------------------------------
   1. Open Fleasion.
   2. Import / Add config  ->  select the file:
-        GoneByNightfall_Premium_V1.2.json
+        starrygothacked.json
   3. Make sure the config is ENABLED (toggle on).
   4. All assets stream from the cloud (CDN) — no extra files to place,
      you don't need anything except the .json.
