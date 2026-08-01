@@ -1,0 +1,337 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Finisher DiamondHands hit",
+      "replace_ids": [
+        94496162153937
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/fin_dh_hit.ogg"
+    },
+    {
+      "name": "Finisher DiamondHands explode",
+      "replace_ids": [
+        126265374362193
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/fin_dh_explode.ogg"
+    },
+    {
+      "name": "Finisher DarkHeart start",
+      "replace_ids": [
+        133729942047865
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/fin_darkheart_start.ogg"
+    },
+    {
+      "name": "Finisher DarkHeart explode",
+      "replace_ids": [
+        90611785538933
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/fin_darkheart_explode.ogg"
+    },
+    {
+      "name": "Boogie 1 (Funky Disco No Brass)",
+      "replace_ids": [
+        9038367984
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/boogie1.ogg"
+    },
+    {
+      "name": "Boogie 2 (Disco Ball Fever)",
+      "replace_ids": [
+        1848267914
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/boogie2.ogg"
+    },
+    {
+      "name": "Boogie 3 (Downtown Disco)",
+      "replace_ids": [
+        9042144091
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/boogie3.ogg"
+    },
+    {
+      "name": "Boogie 4 (Funky Disco Beats)",
+      "replace_ids": [
+        9038367978
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/boogie4.ogg"
+    },
+    {
+      "name": "Boogie 5 (Disco Ball Alt1)",
+      "replace_ids": [
+        1848267930
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/boogie5.ogg"
+    },
+    {
+      "name": "Body Hit",
+      "replace_ids": [
+        13110130082
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/bodyhit.ogg"
+    },
+    {
+      "name": "Head Hit (base)",
+      "replace_ids": [
+        16537337310
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/headhit.ogg"
+    },
+    {
+      "name": "Head Hit (variation)",
+      "replace_ids": [
+        16537449730
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/headhit_hi.ogg"
+    },
+    {
+      "name": "UI hover",
+      "replace_ids": [
+        103035811146294
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/ui_hover.ogg"
+    },
+    {
+      "name": "UI confirm",
+      "replace_ids": [
+        177266782
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/ui_confirm.ogg"
+    },
+    {
+      "name": "Heal",
+      "replace_ids": [
+        17138490999
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/heal.ogg"
+    },
+    {
+      "name": "Kill voice 1",
+      "replace_ids": [
+        16530229616
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/kill1.ogg"
+    },
+    {
+      "name": "Kill voice 2",
+      "replace_ids": [
+        16530229541
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/kill2.ogg"
+    },
+    {
+      "name": "Kill voice 3",
+      "replace_ids": [
+        16530229695
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/kill3.ogg"
+    },
+    {
+      "name": "RPG explosion",
+      "replace_ids": [
+        13455969017
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/rpg.ogg"
+    },
+    {
+      "name": "Duel countdown",
+      "replace_ids": [
+        17826470563
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/countdown.ogg"
+    },
+    {
+      "name": "Queue countdown",
+      "replace_ids": [
+        17259538274
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/countdown.ogg"
+    },
+    {
+      "name": "Portal ambience",
+      "replace_ids": [
+        114274252176516
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/portal.ogg"
+    },
+    {
+      "name": "AR shoot -> Akey-47",
+      "replace_ids": [
+        13087362838
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 110122962237431
+    },
+    {
+      "name": "Font Rubik-Regular -> Vndl Segment",
+      "replace_ids": [
+        12187288714
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-Light -> Vndl Segment",
+      "replace_ids": [
+        12187342816
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-Medium -> Vndl Segment",
+      "replace_ids": [
+        12187271237
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-SemiBold -> Vndl Segment",
+      "replace_ids": [
+        12187320363
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-Bold -> Vndl Segment",
+      "replace_ids": [
+        12187303601
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-ExtraBold -> Vndl Segment",
+      "replace_ids": [
+        12187262242
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-Black -> Vndl Segment",
+      "replace_ids": [
+        12187280273
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-LightItalic -> Vndl Segment",
+      "replace_ids": [
+        12187311422
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-Italic -> Vndl Segment",
+      "replace_ids": [
+        12187309287
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-MediumItalic -> Vndl Segment",
+      "replace_ids": [
+        12187354260
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-SemiBoldItalic -> Vndl Segment",
+      "replace_ids": [
+        12187303391
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-BoldItalic -> Vndl Segment",
+      "replace_ids": [
+        12187341500
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-ExtraBoldItalic -> Vndl Segment",
+      "replace_ids": [
+        12187323909
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Font Rubik-BlackItalic -> Vndl Segment",
+      "replace_ids": [
+        12187320081
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    }
+  ]
+}
