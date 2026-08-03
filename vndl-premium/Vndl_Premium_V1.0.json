@@ -332,6 +332,521 @@
       "enabled": false,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
+    },
+    {
+      "name": "Skybox side x4 (Graveyard / GY-SD / Westown)",
+      "replace_ids": [
+        135908632589654,
+        84214501374682,
+        12261809766
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/side_seamless.png"
+    },
+    {
+      "name": "Skybox Station Ft",
+      "replace_ids": [
+        2108482231
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/ft.png"
+    },
+    {
+      "name": "Skybox Station Bk",
+      "replace_ids": [
+        2108482005
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/bk.png"
+    },
+    {
+      "name": "Skybox Station Lf",
+      "replace_ids": [
+        2108482395
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/lf.png"
+    },
+    {
+      "name": "Skybox Station Rt",
+      "replace_ids": [
+        2108482542
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/rt.png"
+    },
+    {
+      "name": "Skybox Station Up",
+      "replace_ids": [
+        2108482676
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/up.png"
+    },
+    {
+      "name": "Skybox Station Dn",
+      "replace_ids": [
+        2108545280
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/dn.png"
+    },
+    {
+      "name": "Skybox Ft",
+      "replace_ids": [
+        14147882761,
+        10196550367
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/ft.png"
+    },
+    {
+      "name": "Skybox Bk",
+      "replace_ids": [
+        14147881792,
+        10196550937
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/bk.png"
+    },
+    {
+      "name": "Skybox Lf",
+      "replace_ids": [
+        14147883091,
+        10196550128
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/lf.png"
+    },
+    {
+      "name": "Skybox Rt",
+      "replace_ids": [
+        14147882405,
+        10196549902
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/rt.png"
+    },
+    {
+      "name": "Skybox Up",
+      "replace_ids": [
+        14147881297,
+        10196567794,
+        72960281658487,
+        92138082970751,
+        12261813678
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/up.png"
+    },
+    {
+      "name": "Skybox Dn",
+      "replace_ids": [
+        14147882149,
+        10196550667,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/skybox/dn.png"
+    },
+    {
+      "name": "Scythe base model",
+      "replace_ids": [
+        18644424912
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 70590668793692
+    },
+    {
+      "name": "Scythe image",
+      "replace_ids": [
+        18766866743
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 73971549402646
+    },
+    {
+      "name": "Scythe anim idle",
+      "replace_ids": [
+        14098250940
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 120563323644494
+    },
+    {
+      "name": "Scythe anim equip",
+      "replace_ids": [
+        14138291124
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 121781045768080
+    },
+    {
+      "name": "Scythe anim sprint",
+      "replace_ids": [
+        14098257700
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 93138391476596
+    },
+    {
+      "name": "Scythe anim inspect",
+      "replace_ids": [
+        14098254579
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 94820576007871
+    },
+    {
+      "name": "Scythe attack 1",
+      "replace_ids": [
+        14098261698
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 82483342316178
+    },
+    {
+      "name": "Scythe attack 2",
+      "replace_ids": [
+        14098268759
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 104468717779359
+    },
+    {
+      "name": "Scythe 'bye bye' (лишняя деталь)",
+      "replace_ids": [
+        18644425089
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
+    },
+    {
+      "name": "Icon x / close",
+      "replace_ids": [
+        17838290166,
+        108220438104376,
+        17619444538
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_x.png"
+    },
+    {
+      "name": "Icon back",
+      "replace_ids": [
+        17562685319
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_back.png"
+    },
+    {
+      "name": "Icon next",
+      "replace_ids": [
+        113844621753627
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_next.png"
+    },
+    {
+      "name": "Icon plus",
+      "replace_ids": [
+        17838317115
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_plus.png"
+    },
+    {
+      "name": "Icon exit",
+      "replace_ids": [
+        17498605048
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_exit.png"
+    },
+    {
+      "name": "Icon gear",
+      "replace_ids": [
+        14641612286,
+        17619445191
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_gear.png"
+    },
+    {
+      "name": "Icon save",
+      "replace_ids": [
+        13733474711
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_save.png"
+    },
+    {
+      "name": "Icon task completed",
+      "replace_ids": [
+        17772690718
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_task_completed.png"
+    },
+    {
+      "name": "Icon favorited / rarity",
+      "replace_ids": [
+        102193196101741,
+        132073690319347
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_favorited.png"
+    },
+    {
+      "name": "Icon trophy",
+      "replace_ids": [
+        17175095665
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_trophy.png"
+    },
+    {
+      "name": "Icon basket",
+      "replace_ids": [
+        17619445340
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_basket.png"
+    },
+    {
+      "name": "Icon lock",
+      "replace_ids": [
+        17229230506
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_lock.png"
+    },
+    {
+      "name": "Icon logo g",
+      "replace_ids": [
+        13854780213
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_logo_g.png"
+    },
+    {
+      "name": "Icon arch nemesis",
+      "replace_ids": [
+        133793956251748
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_arch.png"
+    },
+    {
+      "name": "Icon nemesis",
+      "replace_ids": [
+        116941545385923
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_nem.png"
+    },
+    {
+      "name": "Icon duels",
+      "replace_ids": [
+        18525954682
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_duels.png"
+    },
+    {
+      "name": "Icon teammate",
+      "replace_ids": [
+        17704137194
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_teammate.png"
+    },
+    {
+      "name": "Rank bronze 1-3",
+      "replace_ids": [
+        106623367501544,
+        131795064007344,
+        73543520622815
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/bronze3.png"
+    },
+    {
+      "name": "Rank silver 1",
+      "replace_ids": [
+        80716950169934
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/silver1.png"
+    },
+    {
+      "name": "Rank silver 2",
+      "replace_ids": [
+        136100661820261
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/silver2.png"
+    },
+    {
+      "name": "Rank silver 3",
+      "replace_ids": [
+        107898816876115
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/silver3.png"
+    },
+    {
+      "name": "Rank gold 1",
+      "replace_ids": [
+        134520747948636
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/gold1.png"
+    },
+    {
+      "name": "Rank gold 2",
+      "replace_ids": [
+        114166096331502
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/gold2.png"
+    },
+    {
+      "name": "Rank gold 3",
+      "replace_ids": [
+        90039594400813
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/gold3.png"
+    },
+    {
+      "name": "Rank platinum 1",
+      "replace_ids": [
+        133903971285645
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/platinum1.png"
+    },
+    {
+      "name": "Rank platinum 2",
+      "replace_ids": [
+        82834564754747
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/platinum2.png"
+    },
+    {
+      "name": "Rank platinum 3",
+      "replace_ids": [
+        73345783863790
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/platinum3.png"
+    },
+    {
+      "name": "Rank diamond 1",
+      "replace_ids": [
+        113997689031026
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/diamond.png"
+    },
+    {
+      "name": "Rank diamond 2",
+      "replace_ids": [
+        88059506918419
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/diamond2.png"
+    },
+    {
+      "name": "Rank diamond 3",
+      "replace_ids": [
+        112183171942172
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/diamond3.png"
+    },
+    {
+      "name": "Rank onyx 1",
+      "replace_ids": [
+        104871954739030
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/onyx1.png"
+    },
+    {
+      "name": "Rank onyx 2",
+      "replace_ids": [
+        109012386782238
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/onyx2.png"
+    },
+    {
+      "name": "Rank onyx 3",
+      "replace_ids": [
+        127982903682334
+      ],
+      "enabled": false,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/onyx3.png"
     }
   ]
 }
