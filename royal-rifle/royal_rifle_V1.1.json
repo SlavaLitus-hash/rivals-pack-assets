@@ -1,0 +1,62 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Royal rifle body (colour baked in)",
+      "replace_ids": [
+        14652718299
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/royal-rifle/mesh/body_royal.mesh"
+    },
+    {
+      "name": "Royal rifle magazine",
+      "replace_ids": [
+        12613284529
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/royal-rifle/mesh/mag_royal.mesh"
+    },
+    {
+      "name": "Remove stock AR parts",
+      "replace_ids": [
+        12613284249,
+        12613283569,
+        12613284036,
+        12613284768,
+        12613283355
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
+    },
+    {
+      "name": "Shoot -> Akey-47",
+      "replace_ids": [
+        13087362838
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 110122962237431
+    },
+    {
+      "name": "Equip -> Akey-47",
+      "replace_ids": [
+        13158735106
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 100664516053133
+    },
+    {
+      "name": "Bolt -> Akey-47 layer",
+      "replace_ids": [
+        13455395017
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 96253147006478
+    }
+  ]
+}
