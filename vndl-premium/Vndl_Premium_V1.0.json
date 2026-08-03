@@ -221,7 +221,7 @@
       "replace_ids": [
         12187342816
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -230,7 +230,7 @@
       "replace_ids": [
         12187271237
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -239,7 +239,7 @@
       "replace_ids": [
         12187320363
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -248,7 +248,7 @@
       "replace_ids": [
         12187303601
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -257,7 +257,7 @@
       "replace_ids": [
         12187262242
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -266,7 +266,7 @@
       "replace_ids": [
         12187280273
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -275,7 +275,7 @@
       "replace_ids": [
         12187311422
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -284,7 +284,7 @@
       "replace_ids": [
         12187309287
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -293,7 +293,7 @@
       "replace_ids": [
         12187354260
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -302,7 +302,7 @@
       "replace_ids": [
         12187303391
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -311,7 +311,7 @@
       "replace_ids": [
         12187341500
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -320,7 +320,7 @@
       "replace_ids": [
         12187323909
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -329,7 +329,7 @@
       "replace_ids": [
         12187320081
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/font/vndl-segment.ttf"
     },
@@ -537,20 +537,18 @@
       "with_id": 104468717779359
     },
     {
-      "name": "Scythe 'bye bye' (лишняя деталь)",
+      "name": "Scythe 'bye bye'",
       "replace_ids": [
         18644425089
       ],
       "enabled": true,
-      "mode": "id",
-      "remove": true
+      "mode": "id"
     },
     {
-      "name": "Icon x / close",
+      "name": "Icon x",
       "replace_ids": [
         17838290166,
-        108220438104376,
-        17619444538
+        108220438104376
       ],
       "enabled": true,
       "mode": "cdn",
@@ -561,7 +559,7 @@
       "replace_ids": [
         17562685319
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_back.png"
     },
@@ -570,7 +568,7 @@
       "replace_ids": [
         113844621753627
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_next.png"
     },
@@ -579,7 +577,7 @@
       "replace_ids": [
         17838317115
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_plus.png"
     },
@@ -588,7 +586,7 @@
       "replace_ids": [
         17498605048
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_exit.png"
     },
@@ -598,7 +596,7 @@
         14641612286,
         17619445191
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_gear.png"
     },
@@ -607,7 +605,7 @@
       "replace_ids": [
         13733474711
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_save.png"
     },
@@ -616,7 +614,7 @@
       "replace_ids": [
         17772690718
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_task_completed.png"
     },
@@ -626,7 +624,7 @@
         102193196101741,
         132073690319347
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_favorited.png"
     },
@@ -635,7 +633,7 @@
       "replace_ids": [
         17175095665
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_trophy.png"
     },
@@ -644,25 +642,16 @@
       "replace_ids": [
         17619445340
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_basket.png"
-    },
-    {
-      "name": "Icon lock",
-      "replace_ids": [
-        17229230506
-      ],
-      "enabled": false,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_lock.png"
     },
     {
       "name": "Icon logo g",
       "replace_ids": [
         13854780213
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_logo_g.png"
     },
@@ -671,7 +660,7 @@
       "replace_ids": [
         133793956251748
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_arch.png"
     },
@@ -680,7 +669,7 @@
       "replace_ids": [
         116941545385923
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_nem.png"
     },
@@ -689,7 +678,7 @@
       "replace_ids": [
         18525954682
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_duels.png"
     },
@@ -698,9 +687,18 @@
       "replace_ids": [
         17704137194
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_teammate.png"
+    },
+    {
+      "name": "Remove Logo_N_512",
+      "replace_ids": [
+        13854780042
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
     },
     {
       "name": "Rank bronze 1-3",
@@ -709,7 +707,7 @@
         131795064007344,
         73543520622815
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/bronze3.png"
     },
@@ -718,7 +716,7 @@
       "replace_ids": [
         80716950169934
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/silver1.png"
     },
@@ -727,7 +725,7 @@
       "replace_ids": [
         136100661820261
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/silver2.png"
     },
@@ -736,7 +734,7 @@
       "replace_ids": [
         107898816876115
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/silver3.png"
     },
@@ -745,7 +743,7 @@
       "replace_ids": [
         134520747948636
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/gold1.png"
     },
@@ -754,7 +752,7 @@
       "replace_ids": [
         114166096331502
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/gold2.png"
     },
@@ -763,7 +761,7 @@
       "replace_ids": [
         90039594400813
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/gold3.png"
     },
@@ -772,7 +770,7 @@
       "replace_ids": [
         133903971285645
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/platinum1.png"
     },
@@ -781,7 +779,7 @@
       "replace_ids": [
         82834564754747
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/platinum2.png"
     },
@@ -790,7 +788,7 @@
       "replace_ids": [
         73345783863790
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/platinum3.png"
     },
@@ -799,7 +797,7 @@
       "replace_ids": [
         113997689031026
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/diamond.png"
     },
@@ -808,7 +806,7 @@
       "replace_ids": [
         88059506918419
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/diamond2.png"
     },
@@ -817,7 +815,7 @@
       "replace_ids": [
         112183171942172
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/diamond3.png"
     },
@@ -826,7 +824,7 @@
       "replace_ids": [
         104871954739030
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/onyx1.png"
     },
@@ -835,7 +833,7 @@
       "replace_ids": [
         109012386782238
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/onyx2.png"
     },
@@ -844,7 +842,7 @@
       "replace_ids": [
         127982903682334
       ],
-      "enabled": false,
+      "enabled": true,
       "mode": "cdn",
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/ranks/onyx3.png"
     }
