@@ -647,6 +647,15 @@
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_basket.png"
     },
     {
+      "name": "Icon lock",
+      "replace_ids": [
+        17229230506
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/icons/icon_lock.png"
+    },
+    {
       "name": "Icon logo g",
       "replace_ids": [
         13854780213
