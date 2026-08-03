@@ -136,33 +136,6 @@
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/heal.ogg"
     },
     {
-      "name": "Kill voice 1",
-      "replace_ids": [
-        16530229616
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/kill1.ogg"
-    },
-    {
-      "name": "Kill voice 2",
-      "replace_ids": [
-        16530229541
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/kill2.ogg"
-    },
-    {
-      "name": "Kill voice 3",
-      "replace_ids": [
-        16530229695
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/vndl-premium/sounds/kill3.ogg"
-    },
-    {
       "name": "RPG explosion",
       "replace_ids": [
         13455969017
@@ -913,6 +886,24 @@
       "enabled": true,
       "mode": "id",
       "remove": true
+    },
+    {
+      "name": "Equip -> Akey-47",
+      "replace_ids": [
+        13158735106
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 100664516053133
+    },
+    {
+      "name": "Bolt -> Akey-47 layer",
+      "replace_ids": [
+        13455395017
+      ],
+      "enabled": true,
+      "mode": "id",
+      "with_id": 96253147006478
     }
   ]
 }
