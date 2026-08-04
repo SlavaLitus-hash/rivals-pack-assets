@@ -1,0 +1,458 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body Hit",
+      "replace_ids": [
+        13110130082
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/sounds/hitmarker.ogg"
+    },
+    {
+      "name": "Head Hit",
+      "replace_ids": [
+        16537337310,
+        16537449730
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/sounds/headshot.ogg"
+    },
+    {
+      "name": "Kill 1/2/3",
+      "replace_ids": [
+        16530229616,
+        16530229541,
+        16530229695
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/sounds/kill.ogg"
+    },
+    {
+      "name": "Round win",
+      "replace_ids": [
+        16810041280
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/sounds/win.ogg"
+    },
+    {
+      "name": "Round lose",
+      "replace_ids": [
+        16810321565
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/sounds/lose.ogg"
+    },
+    {
+      "name": "Map voted",
+      "replace_ids": [
+        103035811146294
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/sounds/start.ogg"
+    },
+    {
+      "name": "Lobby intro / load-in",
+      "replace_ids": [
+        6384899588
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/sounds/intro.ogg"
+    },
+    {
+      "name": "Lobby music",
+      "replace_ids": [
+        17697682466,
+        120824068504773
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/sounds/lobby.ogg"
+    },
+    {
+      "name": "Lobby music muffled",
+      "replace_ids": [
+        17733314783,
+        114306049661290
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/sounds/lobby_muffled.ogg"
+    },
+    {
+      "name": "Skybox Bk",
+      "replace_ids": [
+        14147881792,
+        135908632589654,
+        84214501374682,
+        10196550937,
+        12261809766
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/skybox/sky_bk.png"
+    },
+    {
+      "name": "Skybox Dn",
+      "replace_ids": [
+        10196550667,
+        14147882149,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/skybox/sky_dn.png"
+    },
+    {
+      "name": "Skybox Ft",
+      "replace_ids": [
+        14147882761,
+        12261809766,
+        135908632589654,
+        84214501374682,
+        10196550367
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/skybox/sky_ft.png"
+    },
+    {
+      "name": "Skybox Lf",
+      "replace_ids": [
+        14147883091,
+        135908632589654,
+        84214501374682,
+        12261809766,
+        10196550128
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/skybox/sky_lf.png"
+    },
+    {
+      "name": "Skybox Rt",
+      "replace_ids": [
+        14147882405,
+        135908632589654,
+        84214501374682,
+        12261809766,
+        10196549902
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/skybox/sky_rt.png"
+    },
+    {
+      "name": "Skybox Up",
+      "replace_ids": [
+        14147881297,
+        72960281658487,
+        92138082970751,
+        10196567794,
+        12261813678
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/skybox/sky_up.png"
+    },
+    {
+      "name": "Skybox Station Bk",
+      "replace_ids": [
+        2108482005
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/skybox/sky_bk.png"
+    },
+    {
+      "name": "Skybox Station Dn",
+      "replace_ids": [
+        2108545280
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/skybox/sky_dn.png"
+    },
+    {
+      "name": "Skybox Station Ft",
+      "replace_ids": [
+        2108482231
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/skybox/sky_ft.png"
+    },
+    {
+      "name": "Skybox Station Lf",
+      "replace_ids": [
+        2108482395
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/skybox/sky_lf.png"
+    },
+    {
+      "name": "Skybox Station Rt",
+      "replace_ids": [
+        2108482542
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/skybox/sky_rt.png"
+    },
+    {
+      "name": "Skybox Station Up",
+      "replace_ids": [
+        2108482676
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/skybox/sky_up.png"
+    },
+    {
+      "name": "Font Rubik-Light -> Montserrat-Light",
+      "replace_ids": [
+        12187342816
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-Light.ttf"
+    },
+    {
+      "name": "Font Rubik-Regular -> Montserrat-Regular",
+      "replace_ids": [
+        12187288714
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-Regular.ttf"
+    },
+    {
+      "name": "Font Rubik-Medium -> Montserrat-Medium",
+      "replace_ids": [
+        12187271237
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-Medium.ttf"
+    },
+    {
+      "name": "Font Rubik-SemiBold -> Montserrat-SemiBold",
+      "replace_ids": [
+        12187320363
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-SemiBold.ttf"
+    },
+    {
+      "name": "Font Rubik-Bold -> Montserrat-Bold",
+      "replace_ids": [
+        12187303601
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-Bold.ttf"
+    },
+    {
+      "name": "Font Rubik-ExtraBold -> Montserrat-ExtraBold",
+      "replace_ids": [
+        12187262242
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-ExtraBold.ttf"
+    },
+    {
+      "name": "Font Rubik-Black -> Montserrat-Black",
+      "replace_ids": [
+        12187280273
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-Black.ttf"
+    },
+    {
+      "name": "Font Rubik-LightItalic -> Montserrat-LightItalic",
+      "replace_ids": [
+        12187311422
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-LightItalic.ttf"
+    },
+    {
+      "name": "Font Rubik-Italic -> Montserrat-Italic",
+      "replace_ids": [
+        12187309287
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-Italic.ttf"
+    },
+    {
+      "name": "Font Rubik-MediumItalic -> Montserrat-MediumItalic",
+      "replace_ids": [
+        12187354260
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-MediumItalic.ttf"
+    },
+    {
+      "name": "Font Rubik-SemiBoldItalic -> Montserrat-SemiBoldItalic",
+      "replace_ids": [
+        12187303391
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "name": "Font Rubik-BoldItalic -> Montserrat-BoldItalic",
+      "replace_ids": [
+        12187341500
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-BoldItalic.ttf"
+    },
+    {
+      "name": "Font Rubik-ExtraBoldItalic -> Montserrat-ExtraBoldItalic",
+      "replace_ids": [
+        12187323909
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "name": "Font Rubik-BlackItalic -> Montserrat-BlackItalic",
+      "replace_ids": [
+        12187320081
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/font/Montserrat-BlackItalic.ttf"
+    },
+    {
+      "name": "Icon gear",
+      "replace_ids": [
+        14641612286,
+        17619445191
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/icons/gear.png"
+    },
+    {
+      "name": "Icon logo g",
+      "replace_ids": [
+        13854780213
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/icons/logo_g.png"
+    },
+    {
+      "name": "Remove Logo_N_512",
+      "replace_ids": [
+        13854780042
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
+    },
+    {
+      "name": "Icon x",
+      "replace_ids": [
+        17838290166,
+        108220438104376
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/icons/X.png"
+    },
+    {
+      "name": "Icon back",
+      "replace_ids": [
+        17562685319
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/icons/left.png"
+    },
+    {
+      "name": "Icon next",
+      "replace_ids": [
+        113844621753627
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/icons/right.png"
+    },
+    {
+      "name": "Icon plus",
+      "replace_ids": [
+        17838317115
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/icons/plus.png"
+    },
+    {
+      "name": "Icon basket",
+      "replace_ids": [
+        17619445340
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/icons/basket.png"
+    },
+    {
+      "name": "Icon spectate",
+      "replace_ids": [
+        77908042044589
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/icons/spectate.png"
+    },
+    {
+      "name": "Icon tasks",
+      "replace_ids": [
+        17653923757
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/icons/task.png"
+    },
+    {
+      "name": "Icon silver shield",
+      "replace_ids": [
+        81577092220450
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/icons/shield.png"
+    },
+    {
+      "name": "Icon summer event",
+      "replace_ids": [
+        92989711430837
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/st1rf4ll/icons/event.png"
+    }
+  ]
+}
