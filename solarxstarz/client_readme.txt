@@ -1,5 +1,5 @@
 ========================================================
-  solarxstarz — STANDARD PACK for Rivals (Fleasion)   v1.0
+  solarxstarz — STANDARD PACK for Rivals (Fleasion)   v1.1
 ========================================================
 
 Thanks for your order! This is a focused Standard pack — it changes only
@@ -19,7 +19,8 @@ WHAT THIS PACK CHANGES
                       so those four walls show the same face —
                       expected, not a bug.)
 
-  • Bang finisher   — the stock effect is replaced with the M4 logo.
+  • Diamond Hands   — the M4 logo replaces the flare image used by the
+                      Diamond Hands finisher.
 
   • Hit sounds      — body hit, and head hit in both of the game's
                       variants (the second is very slightly higher
@@ -37,14 +38,15 @@ WHAT THIS PACK DOES *NOT* TOUCH
   • No font changes.
   • No weapon skins, models or animations.
   • No lobby music.
-  • Other finishers are untouched — only Bang is changed.
+  • Other finishers are untouched — only the Diamond Hands
+    flare image is changed.
 
 --------------------------------------------------------
 HOW TO IMPORT (Fleasion)
 --------------------------------------------------------
   1. Open Fleasion.
   2. Import / Add config  ->  select the file:
-        Solarxstarz_Standard_V1.0.json
+        Solarxstarz_Standard_V1.1.json
      (place it in Fleasion's configs folder if you prefer)
   3. Select the preset and make sure it is ENABLED (toggle on).
   4. Press Clear Cache.

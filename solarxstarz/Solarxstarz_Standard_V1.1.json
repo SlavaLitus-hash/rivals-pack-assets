@@ -232,37 +232,13 @@
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/solarxstarz/sounds/portal.ogg"
     },
     {
-      "name": "Bang finisher -> M4 logo",
+      "name": "Logo in Diamond Hands",
       "replace_ids": [
-        "83632273995004:0"
+        14632127990
       ],
       "enabled": true,
       "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/solarxstarz/finisher/m4_alpha.png"
-    },
-    {
-      "name": "Bang finisher -> remove meshes",
-      "replace_ids": [
-        18610842015,
-        18610840957,
-        18728270047,
-        18610841571,
-        79752152123166,
-        18610841222,
-        14002774206
-      ],
-      "enabled": true,
-      "mode": "id",
-      "remove": true
-    },
-    {
-      "name": "Bang finisher -> M4 plane mesh",
-      "replace_ids": [
-        121269898741708
-      ],
-      "enabled": true,
-      "mode": "cdn",
-      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/solarxstarz/finisher/plane_m4.obj"
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/solarxstarz/finisher/test_14632127990.png"
     }
   ]
 }
