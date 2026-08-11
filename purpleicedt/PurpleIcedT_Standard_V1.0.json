@@ -1,0 +1,155 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Skybox Bk",
+      "replace_ids": [
+        14147881792,
+        10196550937,
+        12261809766,
+        135908632589654,
+        84214501374682
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_bk.png"
+    },
+    {
+      "name": "Skybox Ft",
+      "replace_ids": [
+        14147882761,
+        10196550367,
+        12261809766,
+        135908632589654,
+        84214501374682
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_ft.png"
+    },
+    {
+      "name": "Skybox Lf",
+      "replace_ids": [
+        14147883091,
+        10196550128,
+        12261809766,
+        135908632589654,
+        84214501374682
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_lf.png"
+    },
+    {
+      "name": "Skybox Rt",
+      "replace_ids": [
+        14147882405,
+        10196549902,
+        12261809766,
+        135908632589654,
+        84214501374682
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_rt.png"
+    },
+    {
+      "name": "Skybox Up",
+      "replace_ids": [
+        14147881297,
+        10196567794,
+        72960281658487,
+        92138082970751,
+        12261813678
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_up.png"
+    },
+    {
+      "name": "Skybox Dn",
+      "replace_ids": [
+        14147882149,
+        10196550667,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_dn.png"
+    },
+    {
+      "name": "Skybox Station Bk",
+      "replace_ids": [
+        2108482005
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_bk.png"
+    },
+    {
+      "name": "Skybox Station Ft",
+      "replace_ids": [
+        2108482231
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_ft.png"
+    },
+    {
+      "name": "Skybox Station Lf",
+      "replace_ids": [
+        2108482395
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_lf.png"
+    },
+    {
+      "name": "Skybox Station Rt",
+      "replace_ids": [
+        2108482542
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_rt.png"
+    },
+    {
+      "name": "Skybox Station Up",
+      "replace_ids": [
+        2108482676
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_up.png"
+    },
+    {
+      "name": "Skybox Station Dn",
+      "replace_ids": [
+        2108545280
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_dn.png"
+    },
+    {
+      "name": "Arena texture -> flat",
+      "replace_ids": [
+        7658055825
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
+    },
+    {
+      "name": "Remove arms",
+      "replace_ids": [
+        12307734932,
+        12307583853
+      ],
+      "enabled": true,
+      "mode": "id",
+      "remove": true
+    }
+  ]
+}
