@@ -1,5 +1,5 @@
 ========================================================
-  uuspeedyy — STANDARD PACK for Rivals (Fleasion)   v1.0
+  uuspeedyy — STANDARD PACK for Rivals (Fleasion)   v1.1
 ========================================================
 
 Thanks for your order! This is a focused Standard pack — it changes only
@@ -33,13 +33,19 @@ WHAT THIS PACK CHANGES
                       stripped, so surfaces render flat. This is the
                       same list the mode has always used.
 
+  • Blurry arena    — (new in v1.1) the arena surface texture is
+                      replaced with a flat translucent grey, so the
+                      arena reads as smooth and washed out instead of
+                      detailed. The arena is part of the zero-texture
+                      list too, so this rule is placed ahead of it —
+                      leave the rule order as it is in the file.
+
 --------------------------------------------------------
 WHAT THIS PACK DOES *NOT* TOUCH
 --------------------------------------------------------
   Listed so there are no surprises — these are left completely stock:
 
   • No skybox.
-  • No arena texture.
   • No font changes.
   • No UI backgrounds, item slots or map previews.
   • No weapon skins, models or animations.
@@ -51,7 +57,7 @@ HOW TO IMPORT (Fleasion)
 --------------------------------------------------------
   1. Open Fleasion.
   2. Import / Add config  ->  select the file:
-        Uuspeedyy_Standard_V1.0.json
+        Uuspeedyy_Standard_V1.1.json
      (place it in Fleasion's configs folder if you prefer)
   3. Select the preset and make sure it is ENABLED (toggle on).
   4. Press Clear Cache.

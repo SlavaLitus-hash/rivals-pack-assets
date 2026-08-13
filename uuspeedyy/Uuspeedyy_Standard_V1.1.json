@@ -181,6 +181,15 @@
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/uuspeedyy/ranks/Immortal_3_Rank.png"
     },
     {
+      "name": "Blurry Arena",
+      "replace_ids": [
+        7658055825
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/uuspeedyy/textures/arena_blurry.png"
+    },
+    {
       "name": "potato graphics",
       "replace_ids": [
         24108148,
