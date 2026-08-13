@@ -133,6 +133,43 @@
       "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/skybox/sky_dn.png"
     },
     {
+      "name": "Head Hit (pop)",
+      "replace_ids": [
+        16537337310,
+        16537449730
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/sounds/headhit.ogg"
+    },
+    {
+      "name": "Body Hit (osu)",
+      "replace_ids": [
+        13110130082
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/sounds/bodyhit.ogg"
+    },
+    {
+      "name": "Duel countdown 10s",
+      "replace_ids": [
+        17826470563
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/sounds/countdown_a.ogg"
+    },
+    {
+      "name": "Duel countdown 4s",
+      "replace_ids": [
+        17826390328
+      ],
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/SlavaLitus-hash/rivals-pack-assets/main/purpleicedt/sounds/countdown_b.ogg"
+    },
+    {
       "name": "Arena texture -> flat",
       "replace_ids": [
         7658055825
